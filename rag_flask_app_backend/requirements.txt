@@ -1,0 +1,11 @@
+langchain
+langchain_groq
+langchain-community
+python-dotenv
+flask
+flask_cors
+psycopg2-binary
+openai
+tiktoken
+faiss-gpu
+gunicorn
